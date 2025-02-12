@@ -1,3 +1,6 @@
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Gaspa-12)](https://github.com/LordDashMe/github-contribution-stats/)
+
+
 # ros_gz_project_template
 A template project integrating ROS 2 and Gazebo simulator.
 
